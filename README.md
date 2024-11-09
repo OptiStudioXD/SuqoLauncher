@@ -27,7 +27,7 @@ SuqoLauncher supports a range of popular emulators for retro gaming:
 - XEMU (Xbox)
 
 ## Requirements
-- **Windows OS**: SuqoLauncher is designed to work on Windows.
+- **Windows OS**: SuqoLauncher is designed to work on Windows. (Coming soon, a .sh script)
 - **Emulators**: You'll need to download the emulators and place them in the `Cores` folder.
 - **ROMs**: Place your game ROMs in the appropriate folder under `Roms` for each emulator.
 
