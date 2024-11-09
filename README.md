@@ -11,7 +11,7 @@ SuqoLauncher is a simple and powerful batch script designed for retro gaming ent
 SuqoLauncher supports a range of popular emulators for retro gaming:
 
 - Citra (3DS)
-- Visual Boy Advance (GBA)
+- Visual Boy Advance (All Gameboys)
 - Stella (Atari 2600)
 - DeSmuME (Nintendo DS)
 - Dolphin (GameCube)
