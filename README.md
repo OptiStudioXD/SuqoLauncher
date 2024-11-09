@@ -5,7 +5,7 @@ SuqoLauncher is a simple and powerful batch script designed for retro gaming ent
 ## Features
 - **Supports a wide range of emulators**: From classic consoles like NES, PS1, and N64 to modern ones like PS2 and 3DS.
 - **ROM support**: Easily run ROMs from a variety of formats, including ISO, GBA, NES, and compressed files (.zip, .rar, .7z, etc.).
-- **Simple and user-friendly interface**: Choose your emulator, select a ROM, and play your games with just a few keystrokes.
+- **Simple and user-friendly interface**: Choose your emulator, select a ROM, and play your games with just a few keystrokes. Or a gamepad if you want it lmao
 
 ## Supported Emulators
 SuqoLauncher supports a range of popular emulators for retro gaming:
