@@ -1,0 +1,28 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Directorios generados
+\dist\
+\logs\
+
+# Archivos temporales de editor de texto
+*.swp
+*.swo
+
+# Archivos de compilación o de configuración de IDE (en caso de que uses algún editor como VS Code)
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos específicos de usuario
+*.bak
+*.tmp
+*.log
+*.old
+
+# Archivos comprimidos temporales generados durante el uso
+*.zip
+*.rar
+*.7z
+*.tar.gz
